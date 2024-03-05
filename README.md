@@ -1,1 +1,1 @@
-# Terraform_Practice_Azure-Resources
+# Terraform-Practice-Azure-resources
